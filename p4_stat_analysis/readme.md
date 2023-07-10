@@ -15,3 +15,5 @@ According to the results of the study, the following was noted:
 4) The average revenue of users of the `Smart` and `Ultra` tariffs differ.
 
 5) The revenue of users from Moscow is equal to the revenue of users from other regions.
+
+**Libraries** - pandas, numpy, matplotlib, seaborn, scipy
