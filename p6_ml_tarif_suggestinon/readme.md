@@ -1,10 +1,10 @@
 # Tariff suggestions
 
-The mobile operator Megaline found out that many customers use archive tariffs. They want to build a system capable of analyzing customer behavior and offering users a new tariff: "Smart" or "Ultra".
+The mobile operator Megaline found out that many customers use archive tariffs. They want to build a system capable of analyzing customer behaviour and offering users a new tariff: "Smart" or "Ultra".
 
 We have at our disposal data on the behavior of customers who have already switched to these tariffs (from the course project "Statistical Data Analysis"). We need to build a model for the classification task that will choose the appropriate tariff. 
 
-We need to build a model with the maximum accuracy value. To pass the project successfully, we need to bring the proportion of correct answers to at least 0.75. Check accuracy on the test sample ourself.
+We need to build a model with the maximum accuracy value. To pass the project successfully, we need to bring the proportion of correct answers to at least 0.75. Check accuracy on the test sample ourselves.
 
 # Results of the research
 
@@ -14,4 +14,4 @@ The depth of the tree affects the accuracy of predictions. In this case, the gre
 
 The accuracy of the Random Forest model reaches 79%.
 
-**Libraries** - 
+**Libraries** - pandas, sklearn (DecisionTreeClassifier, RandomForestClassifier, LogisticRegression)
