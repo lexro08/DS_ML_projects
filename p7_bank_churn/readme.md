@@ -14,3 +14,5 @@ Data source: [https://www.kaggle.com/barelydedicated/bank-customer-churn-modelin
 Based on the results of the dataset analysis for predicting the clients churn, it was found that the most suitable model for the study is a random forest model with the balanced parameter.
 
 It gives the best indicators for F1-score (0.61, which is more than 0.59 according to the project condition).
+
+**Libraries** - pandas, matplotlib, seaborn, sklearn, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, GridSearchCV
