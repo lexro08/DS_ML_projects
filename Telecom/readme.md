@@ -3,7 +3,7 @@
 **Introduction**
 The operator of communication "Niedinogorazryva.com" wants to learn how to predict the outflow of customers. If it turns out that the user plans to leave, he will be offered promo codes and special conditions.
 
-**Targe**
+**Target**
 To prepare a prototype of a machine learning model that will predict customer churn. Target metric ***AUC-ROC >= 0.85***
 
 **Description of services**
