@@ -16,6 +16,6 @@ The following training parameters were used:
 **batch_size=None, epoch=10, steps_per_epoch=None, validation_steps=None,
 activation='reg', optimizer=Adam(lr=0,0001), loss='mean_squared_error', metrics=['mean_absolute_error']*
 
-As part of the work carried out to predict the age of the photo, the presented model on the test sample shows the value of MAY 6.2944, which, in turn, is lower than the target metric 8.
+As part of the work carried out to predict the age of the photo, the presented model on the test sample shows the value of MАЕ 6.2944, which, in turn, is lower than the target metric 8.
 
 **Libraries** - matplotlib, tensorflow
