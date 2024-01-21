@@ -1,4 +1,4 @@
-# Immage Classification. Simpsons dataset
+# Image Classification. Simpsons dataset
 
 
 In this project we will use Immage Classification of characters from Simposns Cartoon.
